@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FaculdadeCursos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="results"></string>
+
+    <string name="faculdade">Band</string>
+    <string name="curso">Music</string>
+</resources>
